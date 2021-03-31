@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0B5FDCF7-6FBF-4C1A-9D25-12EBD28B703F}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConfigJson.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="33" />
+      <File FileName="Bot.cs" Line="4" Column="12" />
+      <File FileName="ConfigJson.cs" Line="7" Column="30" />
+      <File FileName="config.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="discord-bot" expanded="True">
+            <Node name="discord-bot" expanded="True">
+              <Node name="ConfigJson.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.discord-bot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
